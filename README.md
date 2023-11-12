@@ -1,4 +1,4 @@
-# 【Ucard】 申请获得您的第一张虚拟借记卡orVisa国际信用卡。
+# Visa虚拟卡申请-获得您的第一张虚拟借记卡【Ucard】
 优卡支付APP可以让您的虚拟货币走进现实世界，Ucard提供将加密货币例如USDT兑换成美元【创建Visa虚拟卡，广义上，我们的虚拟卡跟借记卡一样，可用于国外各大网站或购物日常消费。例如绑定paypal、微信、支付宝等。】
 <br><br>
 <img alt="Ucard-Visa.png" src="https://github.com/Ucard-im/visa-UcardPay/blob/main/Ucard-Visa.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
